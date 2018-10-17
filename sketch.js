@@ -2,7 +2,6 @@ function preload() {
   // put preload code here
 }
 
-//creo  variabili vuote
 var balls = [];
 
 function setup() {
